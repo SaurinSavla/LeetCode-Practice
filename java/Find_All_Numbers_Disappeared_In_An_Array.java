@@ -1,3 +1,6 @@
+import java.util.List;
+import java.util.ArrayList;
+
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> result = new ArrayList<>();
